@@ -1,7 +1,6 @@
 # HamsterCMS_Somewhere_theme
-HamsterCMS Somewhere theme
 
-https://github.com/turboblack/HamsterCMS 0832 theme for HamsterCMS adapted for old browsers
+https://github.com/turboblack/HamsterCMS theme for HamsterCMS adapted for old browsers
 
 ![this is what theme looks like](https://github.com/turboblack/HamsterCMS_Somewhere_theme/blob/main/somewhere.png)
 
